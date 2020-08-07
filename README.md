@@ -1,4 +1,6 @@
-# Welcome to the respository that is associated with the manuscript titled: A Dual-Frequency Radar Retrieval of Snowfall Properties Using a Neural Network 
+# Welcome to the respository that is associated with the manuscript titled: A Dual-Frequency Radar Retrieval of Snowfall Properties Using a Neural Network
+
+(Under Review August 2020)
 
 Authors: Randy J. Chase, Stephen W. Nesbitt1 and Greg M. McFarquhar2
 Corresponding author: Randy J. Chase (randyjc2@illinois.edu) 
