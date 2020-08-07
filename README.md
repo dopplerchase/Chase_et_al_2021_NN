@@ -12,6 +12,9 @@ Here we have the data used in the manuscript. Please email me if you have specif
   This was the result of combineing the PSDs and DDA/GMM particles randomly to build the training and test dataset. 
 
 3) Notebook for training the network using the synthetic database and Google Colab (tensorflow): Train_Neural_Network_Chase2020.ipynb
+  This is the notebook used to train the neural network. 
 
 
-The data for the analysis on the observations are not provided here because of the size of the radar data. Please see the GHRC website if you wish to download the radar and in-situ data or contact me. We can coordinate transfering the exact datafiles used. 
+The data for the analysis on the observations are not provided here because of the size of the radar data. Please see the GHRC website (https://ghrc.nsstc.nasa.gov/home/) if you wish to download the radar and in-situ data or contact me. We can coordinate transfering the exact datafiles used. 
+
+The GPM-DPR data are avail. here: http://dx.doi.org/10.5067/GPM/DPR/GPM/2A/05
