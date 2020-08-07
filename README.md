@@ -2,7 +2,7 @@
 
 (Under Review August 2020)
 
-Authors: Randy J. Chase, Stephen W. Nesbitt1 and Greg M. McFarquhar2
+Authors: Randy J. Chase, Stephen W. Nesbitt and Greg M. McFarquhar
 Corresponding author: Randy J. Chase (randyjc2@illinois.edu) 
 
 Here we have the data used in the manuscript. Please email me if you have specific questions about units etc. 
