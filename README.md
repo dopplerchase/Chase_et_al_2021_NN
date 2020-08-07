@@ -9,7 +9,8 @@ Here we have the data used in the manuscript. Please email me if you have specif
 
 1) DDA/GMM database of scattering properties: base_df_DDA.csv
 
-  This is the combined dataset from the following papers: Leinonen and Moiseev 2015; Leinonen and Szyrmer 2015; Lu et al. 2016; Kuo et al. 2016; Eriksson et al. 2018
+  This is the combined dataset from the following papers: Leinonen & Moisseev, 2015; Leinonen & Szyrmer, 2015; Lu
+et al., 2016; Kuo et al., 2016; Eriksson et al., 2018
   
 2) Synthetic Data used to train and test the neural network: Unrimed_simulation_wholespecturm_train_V2.nc, Unrimed_simulation_wholespecturm_test_V2.nc
 
