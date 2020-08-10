@@ -20,6 +20,11 @@ et al., 2016; Kuo et al., 2016; Eriksson et al., 2018
 
   This is the notebook used to train the neural network. 
 
+4) Trained tensorflow neural network: NN_6by8.h5
+  This is the hdf5 tensorflow model that resulted from the training. You will need this to run the retrieval. 
+  
+5) Scalers needed to apply the neural network: scaler_X_V2.pkl, scaler_y_V2.pkl
+  These are the sklearn scalers used in training the neural network. You will need these to scale your data if you wish to run the retrieval. 
 
 The data for the analysis on the observations are not provided here because of the size of the radar data. Please see the GHRC website (https://ghrc.nsstc.nasa.gov/home/) if you wish to download the radar and in-situ data or contact me. We can coordinate transfering the exact datafiles used. 
 
