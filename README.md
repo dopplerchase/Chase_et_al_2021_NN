@@ -25,6 +25,10 @@ et al., 2016; Kuo et al., 2016; Eriksson et al., 2018
   
 5) Scalers needed to apply the neural network: scaler_X_V2.pkl, scaler_y_V2.pkl
   These are the sklearn scalers used in training the neural network. You will need these to scale your data if you wish to run the retrieval. 
+  
+6) Example notebook of how to run the trained neural network on Ku- Ka- band observations. We showed this with the 3rd case in the paper: Run_Chase2021_NN.ipynb
+
+7) APR data used to show how to run the neural network retrieval: Chase_2021_NN_APR03Dec2015.nc 
 
 The data for the analysis on the observations are not provided here because of the size of the radar data. Please see the GHRC website (https://ghrc.nsstc.nasa.gov/home/) if you wish to download the radar and in-situ data or contact me. We can coordinate transfering the exact datafiles used. 
 
